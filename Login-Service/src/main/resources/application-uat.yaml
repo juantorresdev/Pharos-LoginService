@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: Pharos-Login
+server:
+  port: 9999
+
+pharos:
+  db-mapping:
+     url: server.pharos.mapping
